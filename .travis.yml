@@ -12,11 +12,11 @@ script:
 
 deploy:
   provider: elasticbeanstalk
-  region: "us-east-2"
-  app: "Wielebareact"
-  env: "Wielebareact-env
-  bucket_name: "elasticbeanstalk-us-east-2-039699603980"
-  bucket_path: "Wielebareact"
+  region: "eu-central-1"
+  app: "Wieleba_React"
+  env: "Wielebareact-env"
+  bucket_name: "elasticbeanstalk-eu-central-1-592175577642"
+  bucket_path: "Wieleba_React"
   edge: true
   on:
     branch: master
