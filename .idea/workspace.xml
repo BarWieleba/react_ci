@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa965e38-3f4b-4562-917c-2242c969d196" name="Changes" comment="zmana env" />
+    <list default="true" id="fa965e38-3f4b-4562-917c-2242c969d196" name="Changes" comment="zmana env">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643142772101</updated>
       <workItem from="1643142774070" duration="27000" />
-      <workItem from="1643142829397" duration="1746000" />
+      <workItem from="1643142829397" duration="1833000" />
     </task>
     <task id="LOCAL-00001" summary="zmana env">
       <created>1643144545618</created>
@@ -45,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643144545618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zmana env">
+      <created>1643144909500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643144909500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
